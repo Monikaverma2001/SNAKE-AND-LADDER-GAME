@@ -1,5 +1,3 @@
-package com.codepumpkin.boardGames;
-
 
 import java.util.HashMap;
 import java.util.Map;
